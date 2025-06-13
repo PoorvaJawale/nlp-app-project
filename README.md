@@ -23,7 +23,7 @@ This is a simple NLP appliaction built in Python using object-oriented (OOP) con
 2. Install dependencies
 
   Make sure you have the google.generativeai package installed: 
-``bash
+``
   pip install google-generativeai ``
 
 3. Google API key
