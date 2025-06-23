@@ -18,7 +18,7 @@ This is a simple NLP appliaction built in Python using object-oriented (OOP) con
 1. Clone the repository <br>
    ```bash
    git clone https://github.com/your-username/nlp-app-project.git
-   cd nlp-app-project ```
+   cd nlp-app-project 
    
 2. Install dependencies <br>
 
